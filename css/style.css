@@ -1,10 +1,11 @@
 *
 .t1{
     text-align: center;
+    color: aliceblue;
 }
 .t2{
     text-align: center;
-    
+    color: aliceblue;
 }
 
 .div-img{
@@ -13,4 +14,19 @@
 .img1{
 
     width: 20%;
+}
+body{
+    background-image:url(../imagenes/boo.-3.png);
+}
+.N1{
+    color: aliceblue;
+}
+.P2{
+    color: aliceblue;
+}
+.H3{
+    color: aliceblue;
+}
+.P2{
+    color: aliceblue;
 }
