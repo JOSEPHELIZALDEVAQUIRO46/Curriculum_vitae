@@ -1,9 +1,5 @@
 *
-.t1{
-    text-align: center;
-    color: aliceblue;
-}
-.t2{
+.P2{
     text-align: center;
     color: aliceblue;
 }
@@ -16,17 +12,34 @@
     width: 20%;
 }
 body{
-    background-image:url(../imagenes/boo.-3.png);
+    background-image:url(../imagenes/c2c01efeffa95dfc74c32feb9303a6b0.jpg)
 }
-.N1{
+.T1{
+    color: aliceblue;
+    text-align: center;
+}
+.B1{
     color: aliceblue;
 }
-.P2{
+.I4{
     color: aliceblue;
 }
-.H3{
+.I5{
+    width: 6%;
+}
+.T3{
+    text-align: justify;
     color: aliceblue;
 }
-.P2{
+.L1{
+    color: aliceblue;
+}
+.P4{
+    color: aliceblue;
+}
+.M1{
+    color: aliceblue;
+}
+.M2{
     color: aliceblue;
 }
